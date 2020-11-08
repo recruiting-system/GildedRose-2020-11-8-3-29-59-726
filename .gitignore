@@ -1,0 +1,11 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs
+/GildedRose/bin
+/GildedRose/obj
+/GildedRoseTest/bin
+/GildedRoseTest/obj
+.idea
+.vscode
